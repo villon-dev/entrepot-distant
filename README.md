@@ -3,3 +3,5 @@ Initialisation du fichier en local, déjà existant sur le depot distant, non pu
 
 
 Ajout d'informations
+
+Après 1er pull, modifié ici pour push origin master
